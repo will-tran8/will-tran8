@@ -1,6 +1,6 @@
 👋 **Hi, I’m Will Tran**
 
-I am currently a year 1 CS/BBA student at University of Waterloo and Laurier
+I am currently a year 2 CS/BBA student at University of Waterloo and Laurier
 
 Feel free to reach me at: willtran787@gmail.com
 
